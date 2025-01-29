@@ -1,8 +1,9 @@
 # Welcome to ReviveMii
-This Project is to revive lost Nintendo Services that are not already revived.
-We are a Team of 1 Person at the time.
+This Project is to revive lost Nintendo Services.
 # Projects
 Visit https://revivemii.errexe.xyz/ to view all Projects.
+# Join the Discord Server
+Join our Discord here: https://revivemii.errexe.xyz/discord-redirect.html
 # Server Status
 View the Status of our Servers at https://revivemii.errexe.xyz/status
 # Use our Services
