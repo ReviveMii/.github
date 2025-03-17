@@ -10,3 +10,5 @@ View the Status of our Servers at https://revivemii.xyz/status
 Visit https://revivemii.xyz/projects.html
 
 Support in the Discord Server (Scroll down on the Site https://revivemii.xyz/)
+
+Support Email: support@revivemii.xyz
